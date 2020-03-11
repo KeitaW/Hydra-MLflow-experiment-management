@@ -1,0 +1,8 @@
+chariot
+allennlp
+mlflow
+hydra-core
+omegaconf
+janome
+torch==1.4.0
+torchvision
