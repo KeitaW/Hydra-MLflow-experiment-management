@@ -4,7 +4,6 @@
 multirun/*
 outputs/*
 *.csv
-*.txt
 *.bz2
 *.pyc
 *.gz
